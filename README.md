@@ -6,6 +6,7 @@ To add new words, append them to the bottom of the "words.txt" file.
 
 <h2>Dependencies</h2>
 pyqt6
+
 pyqt6-tools
 
 Python Ver - 3.9
